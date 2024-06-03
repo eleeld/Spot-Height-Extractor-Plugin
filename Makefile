@@ -1,5 +1,5 @@
 #/***************************************************************************
-# SpotHeightExtractor_v2
+# SpotHeightExtractor
 #
 # This plugin extracts spot heights from an elevation model.
 #							 -------------------
