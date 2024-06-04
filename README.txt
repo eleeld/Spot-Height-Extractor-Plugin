@@ -1,6 +1,6 @@
 Plugin Builder Results
 
-Your plugin SpotHeightExtractor_v2 was created in:
+Your plugin SpotHeightExtractor was created in:
     C:/Users/eleeld/OneDrive - NERC/2024/Operations/Spot height dev/plugin_dev/spot_height_extractor_v3\spot_height_extractor
 
 Your QGIS plugin directory is located at:

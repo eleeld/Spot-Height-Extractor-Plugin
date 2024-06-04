@@ -38,13 +38,13 @@ LOCALES =
 # translation
 SOURCES = \
 	__init__.py \
-	spot_height_exractor.py 
+	spot_height_extractor.py 
 
-PLUGINNAME = spot_height_exractor
+PLUGINNAME = spot_height_extractor
 
 PY_FILES = \
 	__init__.py \
-	spot_height_exractor.py 
+	spot_height_extractor.py 
 
 UI_FILES = 
 

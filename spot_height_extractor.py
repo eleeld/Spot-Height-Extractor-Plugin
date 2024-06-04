@@ -61,7 +61,7 @@ class SpotHeightExtractor_Plugin(object):
     def initGui(self):
         self.initProcessing()
 
-        icon = os.path.join(os.path.join(cmd_folder, 'icon.png'))
+        icon = os.path.join(os.path.join(cmd_folder, 'images/icon.png'))
         self.action = QAction(
             QIcon(icon),
             u"Spot Height Extractor",self.iface.mainWindow())

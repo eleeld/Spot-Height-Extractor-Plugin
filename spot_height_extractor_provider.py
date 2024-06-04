@@ -84,7 +84,7 @@ class SpotHeightExtractor_Provider(QgsProcessingProvider):
         the Processing toolbox.
         """
         cmd_folder = os.path.split(inspect.getfile(inspect.currentframe()))[0]
-        icon = QIcon(os.path.join(os.path.join(cmd_folder, 'icon.png')))
+        icon = QIcon(os.path.join(os.path.join(cmd_folder, 'images/icon.png')))
         return icon
 
     def longName(self):
