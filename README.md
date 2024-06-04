@@ -14,12 +14,12 @@ Download this repo and save the folder in your plugins directory, or you can fin
 
 The tool can be found in the Processing Toolbox: 
 
-![](https://gitlab.data.bas.ac.uk/-/ide/project/eleeld/spot-height-extractor/tree/main/-/images/spot_height_extractor_processing_toolbox.png/)
+![Processing Toolbox](https://gitlab.data.bas.ac.uk/-/ide/project/eleeld/spot-height-extractor/tree/main/-/images/spot_height_extractor_processing_toolbox.png)
 
 
 Once the tool is activated, it opens a Processing window: 
 
-![](https://gitlab.data.bas.ac.uk/-/ide/project/eleeld/spot-height-extractor/tree/main/-/images/spot_height_extractor_window.png/)
+![Processing Window](https://gitlab.data.bas.ac.uk/-/ide/project/eleeld/spot-height-extractor/tree/main/-/images/spot_height_extractor_processing_toolbox.png)
 
 ## Coastline Polygon
 
@@ -33,8 +33,11 @@ Please select the coastline polygon to mask the output. This ensures the output 
 
 #### Choosing the right Neighbourhood size
 
-<p>This algorithm uses circular neighbourhoods and determines the cell containing the highest value within each one across the elevation model" 
+<p>This algorithm uses circular neighbourhoods and determines the cell containing the highest value within each one across the elevation model</p>
 <b>Tool Tip:</b> The size must be an odd integer and represent the length of one of moving window edges in cells. The larger the neighbourhood size, the longer the process will run. It is recommended to start with a low number, e.g. 25 or less.
+
+<br></br>
+
 
 <div class='code'>
 <pre>
