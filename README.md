@@ -3,7 +3,7 @@
 ## Description
 This QGIS Plug-in derives spot heights from a Digital Elevation Model.   
 
-![Watch the video](https://gitlab.data.bas.ac.uk/-/ide/project/eleeld/spot-height-extractor/tree/main/-/images/spot_heights_video.mp4/)
+![](images/spot_heights_video.mp4)
 
 
 ## Installation
