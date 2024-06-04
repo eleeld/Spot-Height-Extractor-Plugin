@@ -14,12 +14,12 @@ Download this repo and save the folder in your plugins directory, or you can fin
 
 The tool can be found in the Processing Toolbox: 
 
-![Processing Toolbox](https://gitlab.data.bas.ac.uk/-/ide/project/eleeld/spot-height-extractor/tree/main/-/images/spot_height_extractor_processing_toolbox.png)
-
+<div style="text-align:center"><img src="images/spot_height_extractor_processing_toolbox.png" alt="toolbox"></div>
 
 Once the tool is activated, it opens a Processing window: 
 
-![Processing Window](https://gitlab.data.bas.ac.uk/-/ide/project/eleeld/spot-height-extractor/tree/main/-/images/spot_height_extractor_processing_toolbox.png)
+<div style="text-align:center"><img src="images/spot_height_extractor_window.png" alt="Window"></div>
+
 
 ## Coastline Polygon
 
