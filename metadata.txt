@@ -6,7 +6,7 @@
 name=Spot Height Extractor
 qgisMinimumVersion=3.0
 description=This plugin extracts spot heights from an elevation model.
-version=1.0
+version=1.1
 author=Elena Field - British Antarctic Survey
 email=eleeld@bas.ac.uk
 
